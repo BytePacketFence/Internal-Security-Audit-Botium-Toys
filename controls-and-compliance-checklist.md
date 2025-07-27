@@ -1,6 +1,6 @@
-# Controls and compliance checklist
+# Controls and Compliance Checklist
 
-**Controls assessment checklist**
+**Controls Assessment Checklist**
 
 |   Yes |     No | Control |
 | ----- | ----- | :---- |
@@ -21,11 +21,11 @@
 
 ---
 
-**Compliance checklist**
+**Compliance Checklist**
 
 Payment Card Industry Data Security Standard (PCI DSS)
 
-| Yes |     No | Best practice |
+| Yes |     No | Best Practice |
 | ----- | ----- | :---- |
 |  |  | Only authorized users have access to customers’ credit card information.  |
 |  |  | Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment. |
@@ -34,7 +34,7 @@ Payment Card Industry Data Security Standard (PCI DSS)
 
 General Data Protection Regulation (GDPR)
 
-| Yes |     No | Best practice |
+| Yes |     No | Best Practice |
 | ----- | ----- | :---- |
 |  |  | E.U. customers’ data is kept private/secured. |
 |  |  | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
@@ -43,7 +43,7 @@ General Data Protection Regulation (GDPR)
 
 System and Organizations Controls (SOC type 1, SOC type 2\) 
 
-| Yes |     No | Best practice |
+| Yes |     No | Best Practice |
 | ----- | ----- | :---- |
 |  |  | User access policies are established. |
 |  |  | Sensitive data (PII/SPII) is confidential/private. |
