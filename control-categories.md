@@ -1,22 +1,22 @@
 
-# Control categories
+# Control Categories
 
-## Control categories
+## Control Categories
 
 Controls within cybersecurity are grouped into three main categories:
 
-* Administrative/Managerial controls  
-* Technical controls  
-* Physical/Operational controls  
+* Administrative/Managerial Controls  
+* Technical Controls  
+* Physical/Operational Controls  
    
 
-**Administrative/Managerial controls** address the human component of cybersecurity. These controls include policies and procedures that define how an organization manages data and clearly defines employee responsibilities, including their role in protecting the organization. While administrative controls are typically policy based, the enforcement of those policies may require the use of technical or physical controls. 
+**Administrative/Managerial Controls** address the human component of cybersecurity. These controls include policies and procedures that define how an organization manages data and clearly defines employee responsibilities, including their role in protecting the organization. While administrative controls are typically policy based, the enforcement of those policies may require the use of technical or physical controls. 
 
-**Technical controls** consist of solutions such as firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), antivirus (AV) products, encryption, etc. Technical controls can be used in a number of ways to meet organizational goals and objectives.
+**Technical Controls** consist of solutions such as firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), antivirus (AV) products, encryption, etc. Technical controls can be used in a number of ways to meet organizational goals and objectives.
 
-**Physical/Operational controls** include door locks, cabinet locks, surveillance cameras, badge readers, etc. They are used to limit physical access to physical assets by unauthorized personnel. 
+**Physical/Operational Controls** include door locks, cabinet locks, surveillance cameras, badge readers, etc. They are used to limit physical access to physical assets by unauthorized personnel. 
 
-## Control types
+## Control Types
 
 Control types include, but are not limited to:	
 
